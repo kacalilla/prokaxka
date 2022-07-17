@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    background-image: linear-gradient(rgb(207, 143, 2),rgb(0, 0, 0));
+    color: white;
+    border-radius: 10px;
+    font-size: 38px;
+}
+p{
+    color: rgb(0, 0, 0);
+    font-size: 38px;
+}
+a{
+    text-decoration: none;
+    font-size: 35px;
+    color: black;
+    background-image: linear-gradient(rgb(250, 0, 187),#c8ff00);
+    border-radius: 8px;
+}
