@@ -14,14 +14,14 @@ p{
 a{
     text-decoration: none;
     font-size: 35px;
-    color: black;
-    background-image: linear-gradient(rgb(1, 128, 241),rgb(255, 255, 255));
+    color: rgb(255, 255, 255);
+    background-image: linear-gradient(rgb(235, 0, 175),rgb(251, 214, 0));
     border-radius: 8px;
 }
 header {
     background-color: rgb(0, 0, 0);
     padding: px;
-    border-radius: 8px;
+    border-radius:8px;
 }
 main{
     
